@@ -36,3 +36,7 @@ chmod +x JHelicopter.sh
 ## Additional Information
 For more details about the project, please refer to the [report](report/report.pdf) file. Please note that the report is written in Italian.
 
+## Authors
+- Leonardo Ignazio Pagliochini
+- Erigen Partalli
+
